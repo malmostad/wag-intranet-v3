@@ -1,8 +1,9 @@
 Web Application Guidelines 3.0
 ==============================
 
-Guidelines for The City of Malmö’s intranet applications are available for reading at http://malmostad.github.io/wag
+**This version is deprecated**, see http://malmostad.github.io/wag for the latest version.
 
+Guidelines for The City of Malmö’s intranet applications.
 
 ## Editing the Guidelines
 This repository contains the source for the guidelines. Content is written in markdown using the [kramdown](http://kramdown.rubyforge.org/syntax.html) dialect and the pages are found in the `pages` directory in the `gh-pages branch`.
