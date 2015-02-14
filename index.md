@@ -6,6 +6,8 @@ permalink: /
 
 # Web Application Guidelines
 
+**This version is deprecated**, see http://malmostad.github.io/wag for the latest version.
+
 Version 3.0 for the City of Malmö's intranet, "Komin".
 {:.preamble}
 
