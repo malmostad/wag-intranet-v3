@@ -15,5 +15,5 @@ mv _temp.js application.js
 
 echo "Converting and compressing Sass files"
 cd ../stylesheets
-sass --style compressed application.scss:application.css
+sass --style compressed application.scss > application.css
 cd ..
