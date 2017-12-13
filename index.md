@@ -38,14 +38,14 @@ New systems built for, or procured by, the City of Malmö must use all of the WA
 2. If your application for some reason can't be changed at all when it comes to the user interface and if the application is not a significant service in the intranet that employees use for daily tasks, you can get an exception from kominteamet@malmo.se to just use the masthead in your application. See the *Getting Started* section for technical instructions.
 
 ## Browser Support
-A [list of devices and browsers](http://malmo.se/Web-Application-Guidelines/Browser-Support.html) that web based intranet services must support is available in the previous version of the WAG.
+A [list of devices and browsers](https://malmo.se/Web-Application-Guidelines/Browser-Support.html) that web based intranet services must support is available in the previous version of the WAG.
 
 
 ## Accessibility
-[Accessibility guidelines](http://malmo.se/Web-Application-Guidelines/Accessibility.html) are available in the previous version of the WAG.
+[Accessibility guidelines](https://malmo.se/Web-Application-Guidelines/Accessibility.html) are available in the previous version of the WAG.
 
 ## Source Code: License and Management
-Source code developed for the City of Malmö---it could be a full system, an extension to a system or a component---will be open source licensed under [AGPL 3.0](http://www.gnu.org/licenses/agpl-3.0.txt) unless otherwise agreed in writing.
+Source code developed for the City of Malmö---it could be a full system, an extension to a system or a component---will be open source licensed under [AGPL 3.0](https://www.gnu.org/licenses/agpl-3.0.txt) unless otherwise agreed in writing.
 
 Before you start development, contact kominteamet@malmo.se and request access to a repository in the [City of Malmö's Github organization account](https://github.com/malmostad). Include Github usernames of the project members in the request. The Github repository must be used during development and maintenance of the code.
 
@@ -53,4 +53,4 @@ Before you start development, contact kominteamet@malmo.se and request access to
 Please contact kominteamet@malmo.se for questions about the WAG.
 
 ## External Services
-If your system has an external audience, i.e. it is not part of the intranet, you must use [WAG version 2.0](http://malmo.se/WAG/) that gives the end user the malmo.se-experience.
+If your system has an external audience, i.e. it is not part of the intranet, you must use [WAG version 2.0](https://malmo.se/WAG/) that gives the end user the malmo.se-experience.

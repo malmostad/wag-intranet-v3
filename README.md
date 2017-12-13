@@ -1,7 +1,7 @@
 Web Application Guidelines 3.0
 ==============================
 
-**This version is deprecated**, see http://malmostad.github.io/wag for the latest version.
+**This version is deprecated**, see https://malmo.se/wag for the latest version.
 
 Guidelines for The City of Malmö’s intranet applications.
 
@@ -9,7 +9,7 @@ Guidelines for The City of Malmö’s intranet applications.
 This repository contains the source for the guidelines. Content is written in markdown using the [kramdown](http://kramdown.rubyforge.org/syntax.html) dialect and the pages are found in the `pages` directory in the `gh-pages branch`.
 
 ## Publishing
-The guidelines are published as [Github pages](http://pages.github.com/) using [Jekyll](http://jekyllrb.com/). Publishing of the content is triggered when the gh-pages branch is updated. This happens when you push to that branch or if you edit a page directly on Github (the latter forces a push).
+The guidelines are published as [Github pages](https://pages.github.com/) using [Jekyll](https://jekyllrb.com/). Publishing of the content is triggered when the gh-pages branch is updated. This happens when you push to that branch or if you edit a page directly on Github (the latter forces a push).
 
 ## Developing
 Checkout the gh-pages branch. Install Jekyll if you haven't done it before:

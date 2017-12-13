@@ -8,7 +8,7 @@ permalink: /typography/
 Stylesheets in the global assets includes styling for a basic set of elements like article content, tables and forms. For elements not listed in the WAG, you will have to set the styling yourself based on the specification and examples below.
 
 ## Typefaces
-The serif typeface [Georgia](http://en.wikipedia.org/wiki/Georgia_(typeface)) is used for body copy and headings in articles. The sans serif typeface [Open Sans](http://en.wikipedia.org/wiki/Open_Sans) is used for menus, navigation, tables, captions, preambles and short pieces of text. The web fonts for Open Sans are loaded from the assets server automatically when you include the global assets in your code. Use the full `font-family` declarations with backup families found in the [variables Sass file](https://github.com/malmostad/intranet-assets/blob/master/app/assets/stylesheets/variables.css.scss).
+The serif typeface [Georgia](https://en.wikipedia.org/wiki/Georgia_(typeface)) is used for body copy and headings in articles. The sans serif typeface [Open Sans](https://en.wikipedia.org/wiki/Open_Sans) is used for menus, navigation, tables, captions, preambles and short pieces of text. The web fonts for Open Sans are loaded from the assets server automatically when you include the global assets in your code. Use the full `font-family` declarations with backup families found in the [variables Sass file](https://github.com/malmostad/intranet-assets/blob/master/app/assets/stylesheets/variables.css.scss).
 
 ## Font Size
 Font sizes should be specified with relative units, i.e. `em` or `%`. You must respect the user device and leave the font size for the `body` element to 100%. All text styling included in the assets, e.g. article content (below) and tables are based on this.
@@ -16,8 +16,8 @@ Font sizes should be specified with relative units, i.e. `em` or `%`. You must r
 ### Size for Individual Content Types
 If a device has the base font size set to 16px and the zoom level is set to 100%, your text should render in the following pixel sizes.
 
-| ------------------------------------------------------ | ---------------- | --------- | ------------ |
-|                      Content Type                      | Size/Line Height |  Typeface | Weight/Style |
+|:-------------------------------------------------------|:-----------------|:----------|:-------------|
+| Content Type                                           | Size/Line Height | Typeface  | Weight/Style |
 | ------------------------------------------------------ | ---------------- | --------- | ------------ |
 | Article body copy                                      | 16/22            | Georgia   | Normal       |
 | Article h1                                             | 32/35            | Georgia   | Normal       |

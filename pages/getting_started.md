@@ -107,4 +107,4 @@ To prevent data from your development and test environments to be collected in t
 {% endhighlight %}
 
 ## Global Assets Internals
-The source code for the [global assets are available on Github](https://github.com/malmostad/intranet-assets). The deployed version on the asset server is in the 3.0-stable branch and is the same as the most recent production tag. Pre-releases are deployed to http://assets.malmo.se/internal/3.0-staging/.
+The source code for the [global assets are available on Github](https://github.com/malmostad/intranet-assets). The deployed version on the asset server is in the 3.0-stable branch and is the same as the most recent production tag. Pre-releases are deployed to https://assets.malmo.se/internal/3.0-staging/.

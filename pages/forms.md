@@ -5,7 +5,7 @@ permalink: /forms/
 ---
 
 # Forms
-We use [Bootstrap 2.3](http://getbootstrap.com/) markup for forms. The styling is slightly different from Bootstrap, but you shouldn't have to worry about that as long as you use the correct markup.
+We use [Bootstrap 2.3](https://getbootstrap.com/) markup for forms. The styling is slightly different from Bootstrap, but you shouldn't have to worry about that as long as you use the correct markup.
 
 To apply the styling to your forms, you need to use the `malmo-form` class in the `form` element or somewhere around it. This means that you can set it in the `body` element or in a global wrapper to have all your forms styled.
 
@@ -479,7 +479,7 @@ $('#datepicker-example').datepicker
 {% endhighlight %}
 
 ## Autocomplete
-[jQueryUI Autocomplete](http://jqueryui.com/autocomplete/) is available in the global assets with a custom styling. Here is a live example of how you use it with the City of Malmö's map service. The service has a jsonp interface.
+[jQueryUI Autocomplete](https://jqueryui.com/autocomplete/) is available in the global assets with a custom styling. Here is a live example of how you use it with the City of Malmö's map service. The service has a jsonp interface.
 
 <div class="example">
   <form action="/fox" method="get" class="malmo-form">
