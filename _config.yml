@@ -1,7 +1,7 @@
 # jekyll serve --baseurl "" --watch
 name: Web Application Guidelines 3.0
 markdown: kramdown
-pygments: true
+highlighter: rouge
 exclude: [Gemfile, Gemfile.lock, .gitignore, README.md, COPYING, build.sh]
 baseurl: /wag-intranet-v3
 cdn_url: //assets.malmo.se/internal/3.0
